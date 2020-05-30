@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="Title">Title</string>
+    <string name="Sub">Sub</string>
+    <string name="image">image</string>
+    <string name="bmw">BMW</string>
+    <string name="bmw_is_the_first">BMW is the first</string>
+    <string name="car">Car</string>
+</resources>
